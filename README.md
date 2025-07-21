@@ -2,13 +2,13 @@
 
 👀 I’m passionate about Software Development and Machine Learning
 
-💻 I have experience in Software Development, Application Development, Data Analysis, and Machine Learning using technologies like Python, SQL, React, Node.js, JCL, COBOL, and AWS.
+💻 I have experience in Software Development, Application Development, Data Analysis, and Machine Learning using technologies like Python, SQL, React, Node.js, Javascript, JCL, COBOL, and AWS.
 
 🌱 Currently learning Machine Learning, Data Analysis, and JavaScript (React & Node.js)
 
 💼 Open to full-time opportunities and exciting collaborations
 
-📫 Reach me at Sriramchennamaneni27@gmail.com
+📫 Reach me at Sriramrao.chennamaneni@gmail.com
 
 😄 Pronouns: He/Him
 
