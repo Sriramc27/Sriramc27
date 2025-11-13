@@ -6,8 +6,6 @@
 
 🌱 Currently learning Machine Learning, Data Analysis, and JavaScript (React & Node.js)
 
-💼 Open to full-time opportunities and exciting collaborations
-
 📫 Reach me at Sriramrao.chennamaneni@gmail.com
 
 😄 Pronouns: He/Him
